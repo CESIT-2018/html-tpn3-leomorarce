@@ -1,0 +1,30 @@
+
+/*TITULOS*/
+.h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+th {
+    color: white;
+    background-color: black;
+}
+
+td {
+    color: black;
+    background-color: lightsteelblue;
+}
+
+.servicios {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+.subt-perfil {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+.ter-subt {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:green;
+}
